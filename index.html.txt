@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mukund Patil | SAP ABAP Consultant</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+    }
+    header {
+      background: #0a3d62;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 18px;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #0a3d62;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 8px;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .contact a {
+      color: #0a3d62;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mukund Patil</h1>
+  <p>SAP ABAP Trainee Consultant</p>
+</header>
+
+<section>
+  <h2>Professional Summary</h2>
+  <p>
+    Enthusiastic SAP ABAP Trainee Consultant with hands-on experience in core ABAP development.
+    Passionate about SAP S/4HANA, modern ABAP concepts, SAP BTP, and delivering enterprise-grade SAP solutions.
+  </p>
+</section>
+
+<section>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>B.E (Computer Engineering)</strong> – University of Mumbai, Navi Mumbai (2024) | CGPA: 8.72</li>
+    <li><strong>HSC</strong> – MJ College, Jalgaon (2020) | 60%</li>
+    <li><strong>SSC</strong> – Orion State Board School, Jalgaon (2018) | 76.40%</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li><strong>Core ABAP:</strong> Reports, Debugging, Enhancements</li>
+    <li><strong>Forms:</strong> Business document handling</li>
+    <li><strong>S/4HANA:</strong> Ready to learn modern SAP concepts</li>
+    <li><strong>Soft Skills:</strong> Logical thinking, Communication, Quick learner, Time management</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Volunteering & Leadership</h2>
+  <p>
+    Volunteered with <strong>Google Developer Student Clubs (GDSC)</strong> as a Core Team Member (June 2023 – August 2023),
+    contributing to community initiatives and teamwork activities.
+  </p>
+</section>
+
+<section>
+  <h2>Certifications</h2>
+  <p>SAP ABAP Backend Developer – Primus Techsystem (Dec 2025 – Dec 2026)</p>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:patilmukund821@gmail.com">patilmukund821@gmail.com</a></p>
+  <p>Location: Jalgaon, Maharashtra</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/mukund-patil-a9769120a" target="_blank">View Profile</a></p>
+</section>
+
+<footer>
+  © 2026 Mukund Patil | Portfolio Website
+</footer>
+
+</body>
+</html>
